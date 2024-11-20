@@ -1,0 +1,22 @@
+/* Champs valides (vert) */
+.isvalid {
+    border-color: #2ecc71;
+    box-shadow: 0 0 5px rgba(46, 204, 113, 0.5);
+    color : green;
+}
+
+/* Champs invalides (rouge) */
+.isinvalid {
+    border-color: #e74c3c;
+    box-shadow: 0 0 5px rgba(231, 76, 60, 0.5);
+    color : red;
+}
+.form-group {
+    margin-bottom: 1rem;
+  }
+.isvalids{
+    color : green;
+}
+.isinvalids {
+    color : red;
+}
